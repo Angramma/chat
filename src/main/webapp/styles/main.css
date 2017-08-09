@@ -1,0 +1,66 @@
+html, body {
+    height:100%;
+    margin:0;
+    padding: 0;
+    overflow:auto;
+}
+body{
+    margin-right: 15%;
+    margin-left: 15%;
+    background:linear-gradient(to left, white 0%, lavender 50%, white 100%);
+}
+table{
+    height: 100%;
+    width: 100%;
+}
+td{
+    align: left;
+    vertical-align: top;
+    vertical-align: top;
+    padding: 5px;
+}
+form{
+    height: 100%;
+}
+.messages {
+
+}
+.td_messages_input{
+    height: 50px;
+    vertical-align: bottom;
+}
+.top {
+    background: cornflowerblue;
+    color: white;
+    height: 5%;
+}
+.top_name{
+    height: 50px;
+    text-align: right;
+    vertical-align: middle;
+    background:linear-gradient(lavender 0%, cornflowerblue 100%, lavender 100%);
+}
+.td_top_name{
+    vertical-align: middle;
+}
+.bottom{
+    height: 50px;
+    background:cornflowerblue;
+}
+.td_right_left_block{
+    width: 25%;
+}
+.tr_found_nicks{
+    height: 0px;
+}
+.tr_found_nicks:hover{
+    background:lavender;
+}
+.tr_body{
+    background: white;
+}
+.table_main {
+    margin:auto;
+    width:100%;
+}
+

@@ -1,0 +1,3 @@
+INSERT INTO users ( del_date, del_user, login, navi_date, nickname, password)VALUES (null, null, 'test', sysdate, 'nickTest', 'testP' );
+INSERT INTO users ( del_date, del_user, login, navi_date, nickname, password)VALUES (null, null, 'test1', sysdate, 'nickTest1', 'testP' );
+INSERT INTO users ( del_date, del_user, login, navi_date, nickname, password)VALUES (null, null, 'test2', sysdate, 'nick', 'testP' );
